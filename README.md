@@ -1,2 +1,2 @@
 # PullRequestDemo
-This repository is just for testing out different pull request features.
+This repository is just for testing out different public pull request features.
